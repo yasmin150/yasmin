@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋, I'm yasmin cabdirashid mohamed</h1>
 <h3 align="center">A passionate full stack developer from somalia</h3>
 
-- 🌱 I’m currently learning **c# js php**
 
+👩‍💻 I'm a Software Developer
+🌱 I'm learning and building Web & Mobile Applications
 - 💬 Ask me about **php html css javacore**
 
 - 📫 How to reach me **yaasmiin378@gmail.com**
