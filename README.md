@@ -1,10 +1,10 @@
-<h1 align="center">Hi 👋, I'm yasmin cabdirashid mohamed</h1>
+<h1 align="center">Hi 👋,  🌸yasmin cabdirashid mohamed🌸</h1>
 <h3 align="center">A passionate full stack developer from somalia</h3>
 
 
-👩‍💻 I'm a Software Developer
+-👩‍💻 I'm a Software Developer
 
-🌱 I'm learning and building Web & Mobile Applications
+-🌱 I'm learning and building Web & Mobile Applications
 
 - 💬 Ask me about **php html css javacore**
 
