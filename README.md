@@ -3,7 +3,9 @@
 
 
 👩‍💻 I'm a Software Developer
+
 🌱 I'm learning and building Web & Mobile Applications
+
 - 💬 Ask me about **php html css javacore**
 
 - 📫 How to reach me **yaasmiin378@gmail.com**
