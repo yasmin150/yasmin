@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm yasmin cabdirashid mohamed</h1>
-<h3 align="center">A passionate frontend developer from somalia</h3>
+<h3 align="center">A passionate full stack developer from somalia</h3>
 
 - 🌱 I’m currently learning **c# js php**
 
